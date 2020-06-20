@@ -1,0 +1,15 @@
+body{
+	background-image: url("pic2.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+ 	 background-size: cover;
+
+}
+h1 {
+  color: #003399;
+  text-align: center;
+}
+p{
+	color: #e63900;
+	text-align: center;
+}
